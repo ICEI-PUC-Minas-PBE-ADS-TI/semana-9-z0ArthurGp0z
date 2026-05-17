@@ -1,13 +1,29 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <script src="script.js"></script>
+    <title>Mini Ecommerce Sneakers</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    
+
+    <header>
+        <h1>Mini Ecommerce Sneakers</h1>
+        <p class="subtitulo">Os melhores sneakers em um só lugar</p>
+    </header>
+
+    <div class="controles">
+        <input id="search" type="text" placeholder="Buscar tênis...">
+        <select id="category"></select>
+        <button id="btnRender">Renderizar</button>
+    </div>
+
+    <main>
+        <div id="product-list"></div>
+        <div id="product-details"></div>
+    </main>
+
+    <script src="script.js"></script>
 </body>
 </html>
