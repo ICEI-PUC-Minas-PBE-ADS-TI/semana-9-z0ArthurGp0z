@@ -4,13 +4,13 @@ Nesta atividade, será desenvolvido um programa para praticar o uso de funções
 
 ## Informações Gerais
 
-- Nome:
-- Matrícula:
+- Nome: Arthur Gomes Pereira
+- Matrícula: 924503
 
 ## Prints do trabalho
 
-<<  COLOQUE A IMAGEM - TELA DE CARDS DE PRODUTOS - AQUI >>
+[Print dos cards](imgs/cardsPrint.png)
 
-<<  COLOQUE A IMAGEM - TELA DE DETALHE DO PRODUTO - AQUI >>
+[Print detalhes](imgs/detalhesPrint.png)
 
-<<  COLOQUE A IMAGEM - TELA DO CONSOLE - AQUI >>
+[Print console](imgs/consolePrint.png)
